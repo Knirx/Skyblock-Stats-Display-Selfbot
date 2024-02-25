@@ -10,6 +10,10 @@
 
 **Make sure you have the metadata.js running so you are able to display the stats!**
 
+## Questions?
+
+**DM @knaxv9 on Discord**
+
 ## Preview
 
 ![image](https://github.com/Knirx/Skyblock-Stats-Selfbot/assets/147601199/b14dcb0a-5a76-49a2-bef6-e6993784b34a)
